@@ -7,7 +7,7 @@ import numpy as np
 import tensorflow as tf
 from tensorflow import keras
 from tensorflow.keras import models
-from tensorflow.keras import load_model
+from tensorflow.keras.models import load_model
 #from keras.models import load_model
 model = load_model('chatbot_model.h5')
 import json
