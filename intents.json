@@ -18,8 +18,8 @@
          "responses": ["Yeah...", "Do you really want to know?", "You do not want to know."]
         },
         {"tag": "working",
-         "patterns": ["D?", "Do you accept Mastercard?", "Are you cash only?" ],
-         "responses": ["We accept VISA, Mastercard and AMEX", "We accept most major credit cards"]
+         "patterns": ["Did you find a job?", "Are you leaving academia?", "Have you had any interviews?" ],
+         "responses": ["COVID might not have been the best time to switch careers.", "People are lining up to hire a 40 year old junior data scientist."]
         },
         {"tag": "family",
          "patterns": ["How are the kids?", "How is the family doing", "How's life"],
